@@ -1,8 +1,9 @@
-# name: introstats-correlation-skill
-# description: Teaches correlation analysis in R using IntroStats.us methodology, including interpretation, assumptions, and APA reporting.
-# version: 1.0.0
-# author: Ben Gonzalez
-
+---
+name: introstats-correlation-skill
+description: Teaches correlation analysis in R using IntroStats.us methodology, including interpretation, assumptions, and APA reporting.
+version: 1.0.0
+author: Ben Gonzalez
+---
 ## Overview
 
 This skill teaches students how to:
